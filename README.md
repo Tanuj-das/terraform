@@ -27,6 +27,8 @@ Step 1: Write the Dockerfile for the nginx image.(Dockerfile code is attached in
 
 Step 2: docker build -t tanuj/nginx .
 
+![Docker_build](https://user-images.githubusercontent.com/50992028/97430010-428aee00-193e-11eb-85c5-a38977a5fd11.PNG)
+
 Step 3: docker run -d -p 8080:80 tanuj/nginx
 
 
