@@ -21,6 +21,8 @@ Step 6: terraform init
 
 Step 7: terraform apply(after that type yes as its ask for confirmation) The ec2 instance creation will start and it will be running successfully.
 
+![Ec2_instance](https://user-images.githubusercontent.com/50992028/97430866-7d415600-193f-11eb-9dc8-a053f1f9076f.PNG)
+
 #Docker
 
 Step 1: Write the Dockerfile for the nginx image.(Dockerfile code is attached in the code)
