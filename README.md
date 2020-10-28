@@ -35,8 +35,8 @@ Step 3: docker run -d -p 8080:80 tanuj/nginx
 
 ![docker_run_command](https://user-images.githubusercontent.com/50992028/97430231-9564a580-193e-11eb-84d8-7f3e30a40378.PNG)
 
-Step 4: Hit the ip adress at port 8080 ina browser.
+Step 4: Hit the ip adress at port 8080 in the browser.
 
-
+![nginx_page](https://user-images.githubusercontent.com/50992028/97430542-0ad07600-193f-11eb-8a8a-b4644ab57269.PNG)
 
 
