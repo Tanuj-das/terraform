@@ -17,5 +17,18 @@ source ~/.bash_profile
 
 Step 6: terraform init
 
-Step 7: terraform apply(after that type yes as its ask for confirmation)
+![Initialize_terraform](https://user-images.githubusercontent.com/50992028/97429581-a06b0600-193d-11eb-8298-d1e289e45b93.PNG)
+
+Step 7: terraform apply(after that type yes as its ask for confirmation) The ec2 instance creation will start and it will be running successfully.
+
+#Docker
+
+Step 1: Write the Dockerfile for the nginx image.(Dockerfile code is attached in the code)
+
+Step 2: docker build -t tanuj/nginx .
+
+Step 3: docker run -d -p 8080:80 tanuj/nginx
+
+
+
 
